@@ -1,6 +1,6 @@
-# (utils-docker)[https://hub.docker.com/r/karuppiah7890/utils]
+# [utils-docker](https://hub.docker.com/r/karuppiah7890/utils)
 
-A (docker image)[https://hub.docker.com/r/karuppiah7890/utils] containing some utilities. Utilities:
+A [docker image](https://hub.docker.com/r/karuppiah7890/utils) containing some utilities. Utilities:
 
 - curl
 - netstat
